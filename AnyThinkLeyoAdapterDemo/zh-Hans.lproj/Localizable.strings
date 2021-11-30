@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  AnyThinkLeyoAdapterDemo
+
+  Created by laole918 on 2021/9/15.
+  
+*/
+"Splash" = "开屏";
+"Interstitial" = "插屏";
+"RewardVideo" = "激励视频";
+
+"loadAd" = "加载广告";
+
